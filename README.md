@@ -1,4 +1,4 @@
-# unit 15, SQL
+# Unit 15, SQL
 
 ## Get Started
 
@@ -6,7 +6,7 @@ Clone this repository on your local machine.
 
 ## Struture
 
-The repository contains folder "tables" where all queries and answers for 4 tables are located: concept, concept_ancestor, concept_relationship, and concept_synonym.
+The repository contains a folder "tables" where all queries and answers for 4 tables are located: concept, concept_ancestor, concept_relationship, and concept_synonym.
 
 ## Code style
 
