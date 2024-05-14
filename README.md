@@ -4,7 +4,7 @@
 
 Clone this repository on your local machine.
 
-## Struture
+## Struсture
 
 The repository contains a folder "tables" where all queries and answers for 4 tables are located: concept, concept_ancestor, concept_relationship, and concept_synonym.
 
