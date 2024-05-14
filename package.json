@@ -1,0 +1,8 @@
+{
+  "name": "sql-unit-15",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kreal11/sql-unit-15.git",
+  "author": "Kreal11 <kirillshyrokov2@gmail.com>",
+  "license": "MIT"
+}
